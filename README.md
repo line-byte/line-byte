@@ -42,14 +42,14 @@
 
 ## 🌷 Projetos
 
-### 🧳 VIVAXX
+## 🧳 VIVAXX
 
 Site desenvolvido para uma loja de malas, em colaboração com uma amiga — proprietária do negócio — e um colega.
 
 Um projeto feito para transformar uma necessidade real em uma solução digital, trabalhando com **desenvolvimento web, organização de conteúdo e design de interface**.
 
 
-### 🐢 OASIS
+## 🐢 OASIS
 
 Projeto desenvolvido com **C e Arduino**.
 
@@ -64,7 +64,7 @@ Criamos uma pequena tartaruga robótica que funciona como uma espécie de assist
 Um projeto que uniu **programação, sensores, hardware e criatividade** para resolver um problema do mundo real.
 
 
-### 🎮 Paramancer
+## 🎮 Paramancer
 
 Um jogo desenvolvido em **C**, ambientado em um futuro distópico onde uma inteligência artificial dominou o mundo.
 
