@@ -7,7 +7,6 @@
 
 > ✧ *Still learning. Still building. Still becoming.* ✧
 
----
 
 ## ✦ Atualmente
 
@@ -16,7 +15,6 @@
 🧩 Explorando diferentes tecnologias e descobrindo minha área dentro da programação
 🎨 Tentando unir tecnologia e criatividade sempre que posso
 
----
 
 ## 💻 Tecnologias & áreas que estou explorando
 
@@ -41,7 +39,6 @@
 🔐 Segurança da informação
 🔌 Arduino & sistemas embarcados
 
----
 
 ## 🌷 Projetos
 
@@ -51,7 +48,6 @@ Site desenvolvido para uma loja de malas, em colaboração com uma amiga — pro
 
 Um projeto feito para transformar uma necessidade real em uma solução digital, trabalhando com **desenvolvimento web, organização de conteúdo e design de interface**.
 
----
 
 ### 🐢 OASIS
 
@@ -67,7 +63,6 @@ Criamos uma pequena tartaruga robótica que funciona como uma espécie de assist
 
 Um projeto que uniu **programação, sensores, hardware e criatividade** para resolver um problema do mundo real.
 
----
 
 ### 🎮 Paramancer
 
@@ -79,7 +74,6 @@ Além dos combates, o jogo possui uma mecânica de perguntas sobre **inteligênc
 
 > ✦ Um projeto que mistura programação, narrativa, game design e educação.
 
----
 
 ## ✦ Um pouco sobre mim
 
@@ -91,13 +85,11 @@ Ainda estou aprendendo — e este perfil é justamente um registro dessa evoluç
 
 **Um projeto de cada vez. Um pouco melhor a cada vez. ✦**
 
----
 
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eadff0?style=flat-square\&logo=linkedin\&logoColor=6b3a50)](https://www.linkedin.com/in/dilvanir-aline-2b3015353/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BstaWfn9cRkiFZ6d23feZhg%3D%3D)
 
----
 
 <p align="center">
   ✦ ─────────────── ✧ ─────────────── ✦
